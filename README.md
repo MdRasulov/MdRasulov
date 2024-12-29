@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Makhmudbek Rasulov</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 <br/>
 
 - 📫 How to reach me **maxmudrasulov@gmail.com**
